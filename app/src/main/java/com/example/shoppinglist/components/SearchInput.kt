@@ -9,11 +9,7 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.shoppinglist.R
-import com.example.shoppinglist.ui.theme.ShoppingListTheme
 
 @Composable
 fun SearchInput(query: String, onQueryChange: (String) -> Unit) {

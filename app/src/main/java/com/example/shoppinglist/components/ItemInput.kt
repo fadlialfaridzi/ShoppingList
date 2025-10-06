@@ -1,4 +1,4 @@
-package com.example.shoppinglist.component
+package com.example.shoppinglist.components
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
