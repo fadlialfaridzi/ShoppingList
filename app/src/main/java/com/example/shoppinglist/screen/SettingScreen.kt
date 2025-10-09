@@ -15,6 +15,6 @@ fun SettingScreen() {
             .padding(16.dp),
         contentAlignment = Alignment.Center
     ) {
-        Text("MASI KOSONG KAYA ORANGNYA", style = MaterialTheme.typography.headlineSmall)
+        Text("404 NOT FOUND", style = MaterialTheme.typography.headlineSmall)
     }
 }

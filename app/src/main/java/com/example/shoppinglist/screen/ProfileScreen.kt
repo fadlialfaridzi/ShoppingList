@@ -67,14 +67,14 @@ fun ProfileScreen() {
                 verticalArrangement = Arrangement.spacedBy(10.dp)
             ) {
                 Text(
-                    text = "Nama: Rafi Yandra Maulana Fauzi",
+                    text = "Nama: Fadli Alfaridzi",
                     fontWeight = FontWeight.Bold,
                     style = MaterialTheme.typography.bodyLarge
                 )
-                Text("NIM: 2311523041")
-                Text("Hobi: Belajar Dan Mengoding")
-                Text("TTL: Bukittinggi, 19 September 2005")
-                Text("Peminatan: Enterprise Architecture")
+                Text("NIM: 2311523003")
+                Text("Hobi: Memburu Alien")
+                Text("TTL: Kota Solok, 18 Maret 2005")
+                Text("Peminatan: Enterprise Application")
             }
         }
     }
